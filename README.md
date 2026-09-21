@@ -4,8 +4,6 @@
 
 ## About me
 
-I'm an ML and software engineer in London with an MSc in Computer Science (Machine Learning) from Queen Mary University of London. I like building LLM systems end to end: the retrieval, the agent orchestration, the evaluation, and the APIs and infrastructure that put them in front of users.
-
 **What I like working on**
 
 - **Multi-agent LLM systems.** Breaking a task into specialised agents and getting them to coordinate reliably. I'm currently building a LangGraph pull request reviewer where security, performance, and style agents feed a synthesiser that writes one structured review.
